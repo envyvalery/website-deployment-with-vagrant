@@ -1,5 +1,5 @@
 # website-deployment-with-vagrant
-
+#ignore this... just testing 
 running the included vagrant file should deploy and make the HTML website template in this link browsable https://www.tooplate.com/zip-templates/2133_moso_interior.zip ![image](https://github.com/envyvalery/website-deployment-with-vagrant/assets/140969141/729ca103-d765-4802-9269-6230ab699ded)
 
 vagrant file to automate website deployment on VMS using Vagrant and Oracle virtual box.
